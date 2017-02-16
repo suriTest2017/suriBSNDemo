@@ -5,6 +5,4 @@ public class BSNDemoClass {
 	
 	//Checking 3rd commit! ...
 	
-	//Making the 4th change - Commit 4
-	
 }
